@@ -1,4 +1,4 @@
-const URL = "https://api.thecatapi.com/v1/images/search?limit=10&api_key=live_l3ZFPlQ9I9UMRhrcj6ZsOE76FQDd4F1Vpv3WRu8FQ9wRIMfWANatK6O3EqRCXTd5";
+const URL = "https://api.thecatapi.com/v1/images/search?limit=2&api_key=live_l3ZFPlQ9I9UMRhrcj6ZsOE76FQDd4F1Vpv3WRu8FQ9wRIMfWANatK6O3EqRCXTd5";
 
 
 function nuevoGato(){

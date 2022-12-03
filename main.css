@@ -1,0 +1,11 @@
+.gato{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.gato > img{
+    width: 100px;
+    margin-top: 50px;
+}
