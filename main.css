@@ -6,6 +6,36 @@
 }
 
 .gato > img{
-    width: 100px;
-    margin-top: 50px;
+    width: 80px;
+  
 }
+
+body{
+    background-image:url(img/th.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Nerko One', cursive;
+    font-size: x-large;
+    color: rgb(11, 19, 95);
+}
+
+
+#izq {
+    -webkit-box-shadow: -32px -28px 45px -7px rgba(46,21,46,1);
+    -moz-box-shadow: -32px -28px 45px -7px rgba(46,21,46,1);
+    box-shadow: -32px -28px 45px -7px rgba(46,21,46,1);
+}
+
+
+#der{-webkit-box-shadow: 43px 41px 10px -22px rgba(46,21,46,0.51);
+    -moz-box-shadow: 43px 41px 10px -22px rgba(46,21,46,0.51);
+    box-shadow: 43px 41px 10px -22px rgba(46,21,46,0.51);
+    
+
+
+}
+
+
+
+
+
